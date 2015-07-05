@@ -1,0 +1,8 @@
+package edu.continental.servicios;
+
+import javax.ws.rs.Path;
+
+@Path("/primerws")
+public class PrimerWS {
+
+}

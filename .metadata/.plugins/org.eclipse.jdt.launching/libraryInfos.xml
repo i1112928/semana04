@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<libraryInfos>
+<libraryInfo home="C:\Program Files\Java\jdk1.6.0_37" version="1.6.0_37">
+<bootpath>
+<entry path="C:\Program Files\Java\jdk1.6.0_37\jre\lib\resources.jar"/>
+<entry path="C:\Program Files\Java\jdk1.6.0_37\jre\lib\rt.jar"/>
+<entry path="C:\Program Files\Java\jdk1.6.0_37\jre\lib\sunrsasign.jar"/>
+<entry path="C:\Program Files\Java\jdk1.6.0_37\jre\lib\jsse.jar"/>
+<entry path="C:\Program Files\Java\jdk1.6.0_37\jre\lib\jce.jar"/>
+<entry path="C:\Program Files\Java\jdk1.6.0_37\jre\lib\charsets.jar"/>
+<entry path="C:\Program Files\Java\jdk1.6.0_37\jre\lib\modules\jdk.boot.jar"/>
+<entry path="C:\Program Files\Java\jdk1.6.0_37\jre\classes"/>
+</bootpath>
+<extensionDirs>
+<entry path="C:\Program Files\Java\jdk1.6.0_37\jre\lib\ext"/>
+<entry path="C:\Windows\Sun\Java\lib\ext"/>
+</extensionDirs>
+<endorsedDirs>
+<entry path="C:\Program Files\Java\jdk1.6.0_37\jre\lib\endorsed"/>
+</endorsedDirs>
+</libraryInfo>
+<libraryInfo home="F:\eclipse-web" version="1.5.0">
+<bootpath>
+<entry path="F:\eclipse-web\jre\lib\vm.jar"/>
+<entry path="F:\eclipse-web\jre\lib\core.jar"/>
+<entry path="F:\eclipse-web\jre\lib\charsets.jar"/>
+<entry path="F:\eclipse-web\jre\lib\graphics.jar"/>
+<entry path="F:\eclipse-web\jre\lib\security.jar"/>
+<entry path="F:\eclipse-web\jre\lib\ibmpkcs.jar"/>
+<entry path="F:\eclipse-web\jre\lib\ibmorb.jar"/>
+<entry path="F:\eclipse-web\jre\lib\ibmcfw.jar"/>
+<entry path="F:\eclipse-web\jre\lib\ibmorbapi.jar"/>
+<entry path="F:\eclipse-web\jre\lib\ibmjcefw.jar"/>
+<entry path="F:\eclipse-web\jre\lib\ibmjgssprovider.jar"/>
+<entry path="F:\eclipse-web\jre\lib\ibmjsseprovider2.jar"/>
+<entry path="F:\eclipse-web\jre\lib\ibmjaaslm.jar"/>
+<entry path="F:\eclipse-web\jre\lib\ibmjaasactivelm.jar"/>
+<entry path="F:\eclipse-web\jre\lib\ibmcertpathprovider.jar"/>
+<entry path="F:\eclipse-web\jre\lib\server.jar"/>
+<entry path="F:\eclipse-web\jre\lib\xml.jar"/>
+</bootpath>
+<extensionDirs>
+<entry path="F:\eclipse-web\jre\lib\ext"/>
+</extensionDirs>
+</libraryInfo>
+</libraryInfos>

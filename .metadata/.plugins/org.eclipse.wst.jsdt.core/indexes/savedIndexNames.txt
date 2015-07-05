@@ -1,0 +1,6 @@
+INDEX VERSION 1.122+F:\tsemana04\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+88826303.index
+3016766323.index
+711342445.index
+2727819508.index
+3495733298.index
